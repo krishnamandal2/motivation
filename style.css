@@ -1,0 +1,88 @@
+/*.kr{
+    font-size: 30px;
+    border:2px solid black;
+    padding:20px;
+    margin:20px;
+    background-color: blanchedalmond;
+    text-align: center;
+}*/
+
+header {
+    
+    background-color: black;
+   padding: 40px;   
+
+    
+}
+
+   
+p{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    padding: 0%;
+    margin-top: 0px;
+}
+.f{
+     font-size: 30px;
+     color:red;
+     text-align: left;
+     animation-duration: 2s;
+     animation-iteration-count: infinite;
+     animation-name: n1;
+}
+
+@keyframes n1{
+    from{margin-left:0px;} to {margin-left: 900px;}
+}
+
+footer{
+    background-color: black;
+    padding: 30px;
+    margin-top: auto;
+    
+}
+.m{
+    color:white;
+    font-size: 20px;
+    text-align: left;
+}
+/*.a{
+    width: 400px;
+    height:400px
+    
+}
+.b{
+    width: 400px;
+    height:400px
+margin:auto;
+padding:30px;
+margin-left:50px;
+    
+}
+
+.c{
+    width: 400px;
+    height:400;
+}
+
+.d{
+    width: 400px;
+    height:400px
+}*/
+.t{
+
+    height: 400px;
+    width:400px;
+    margin-top:0px;
+    margin-left:20px;
+    margin-right: 0px;
+    padding:10px;
+    margin-bottom: 0px;
+    transition: 0.5s;
+}
+.t:hover{
+    width:420px;
+    height:420px;
+}
+
